@@ -1,0 +1,96 @@
+ManifestFileVersion: 0
+CRC: 635355728
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5b7b53730d570bc4f3ca568f80dd93fc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e99c7d72430672a81bbc8261221216d4
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 86710e43de46f6f4bac7c8e50813a599, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/resultsitemclick.wav
+- Assets/Sounds/infodesc.wav
+- Assets/Sounds/resultstabclick.wav
+- Assets/Textures/WS2_pln_info_core_check_sprite.png
+- Assets/Prefabs/PoiResults.prefab
+- Assets/Sounds/resultsmusic.wav
+- Assets/Materials/Bluering.mat
+- Assets/Prefabs/MapNew.prefab
+- Assets/Textures/WS2_pln_info_core_check_grey_sprite.png
+- Assets/Materials/New.mat
+- Assets/Materials/Whitering.mat
+- Assets/Sounds/resultshover.wav
+- Assets/Sounds/resultsitemlast.wav
+- Assets/Shaders/UnlitTransparentCutout.shader
+- Assets/Sounds/resultscount.wav
+- Assets/Sounds/infohit.wav
+- Assets/Sounds/resultscountlast.wav
+- Assets/Textures/ResultItemPoi.png
+- Assets/Textures/WS2_pln_info_core_sprite.png
+- Assets/Fonts/WS2_TitleCombined.fontsettings
+- Assets/Materials/Checked.mat
+- Assets/Textures/ResultItemEmpty.png
+- Assets/Materials/Grey.mat
+- Assets/Sounds/infosee.wav
+- Assets/Prefabs/PoiCanvas.prefab
+- Assets/Prefabs/Poi.prefab
+- Assets/Sounds/resultsbuttonclick.wav
+- Assets/Fonts/WS2_Description.fontsettings
+- Assets/Prefabs/MapNormal.prefab
+- Assets/Sounds/resultsitem.wav
+Dependencies: []
