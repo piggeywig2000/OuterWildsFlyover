@@ -1,4 +1,4 @@
-# OuterWildsFlyover
+# Outer Wilds Flyover
 Recreation of the Island Flyover game from Wii Sports Resort in Outer Wilds.
 
 ## About
@@ -6,7 +6,7 @@ Recreation of the Island Flyover game from Wii Sports Resort in Outer Wilds.
   - None are placed in locations related to the DLC.
 - Results screen that tracks and saves collected i-points.
 
-This mod is intended for players who have completed the game, and wish they could replay the game again.
+This mod is intended for players who have completed the game and wish they could replay the game again.
 The descriptions of the i-points are intended to be as spoiler-free as possible, but it's still recommended to finish the game first before installing the mod.
 
 ## Screenshots
