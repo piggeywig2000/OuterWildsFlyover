@@ -74,7 +74,7 @@ namespace OuterWildsFlyover
 
                 if (isPoisEnabled)
                 {
-                    saveProfile = save.GetOrCreateProfile(StandaloneProfileManager.SharedInstance.currentProfile.profileName);
+                    saveProfile = save.GetOrCreateProfile(StandaloneProfileManager.SharedInstance?.currentProfile?.profileName ?? "XboxGamepassDefaultProfile");
 
                     PoiManager.SetupInternalObjects();
                     PoiManager.PlacePoisInScene(loadScene, saveProfile.GetCollectedPois());
@@ -96,7 +96,7 @@ namespace OuterWildsFlyover
                 }
             };
         }
-        
+
         private void Update()
         {
             if (!isPoisEnabled) return;
